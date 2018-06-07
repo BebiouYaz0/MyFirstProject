@@ -1,2 +1,2 @@
 # MyFirstProject
-test
+aim : test git commands
